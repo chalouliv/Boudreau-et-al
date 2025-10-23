@@ -1,4 +1,13 @@
 #!/bin/bash
+# ------------------------------------------------------------
+# Script Name: admixture_pre_filter.sh
+# Description: Performs pre-analysis filtering for ADMIXTURE
+# Author: Charlotte Livingston
+# Email: charlotte.livingston@mail.mcgill.ca
+# Date: 2025-09-01
+# Manuscript: Boudreau et al. (Extended carrier screening in the Acadian population)
+# ------------------------------------------------------------
+
 set -e 
 
 source run_admixture.cfg 

@@ -1,3 +1,13 @@
+# ------------------------------------------------------------
+# Script Name: plot_admixture.R
+# Description: Visualization of ADMIXTURE
+# Author: Charlotte Livingston
+# Email: charlotte.livingston@mail.mcgill.ca
+# Date: 2025-09-01
+# Manuscript: Boudreau et al. (Extended carrier screening in the Acadian population)
+# ------------------------------------------------------------
+
+
 library(dplyr)
 library(ggplot2)
 library(tidyr)

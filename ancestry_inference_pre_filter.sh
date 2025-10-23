@@ -1,4 +1,13 @@
 #!/bin/bash
+# ------------------------------------------------------------
+# Script Name: ancestry_inference_pre_filter.sh
+# Description: Performs pre-analysis filtering for Ancestry Inference
+# Author: Peyton McClelland 
+# Email: peyton.mcclelland@mail.mcgill.ca
+# Date: 2025-09-08
+# Manuscript: Boudreau et al. (Extended carrier screening in the Acadian population)
+# ------------------------------------------------------------
+
 set -e 
 
 WORK_DIR=""

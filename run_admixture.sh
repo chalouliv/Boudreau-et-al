@@ -1,4 +1,14 @@
 #!/bin/bash
+# ------------------------------------------------------------
+# Script Name: run_admixture.sh
+# Description: Performs ADMIXTURE analysis
+# Author: Charlotte Livingston
+# Email: charlotte.livingston@mail.mcgill.ca
+# Date: 2025-09-01
+# Manuscript: Boudreau et al. (Extended carrier screening in the Acadian population)
+# ------------------------------------------------------------
+
+
 #SBATCH --account=rrg-vmooser
 #SBATCH --job-name=admixture
 #SBATCH --time=24:00:00         
